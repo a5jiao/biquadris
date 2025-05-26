@@ -1,0 +1,13 @@
+i 
+drop 
+i 
+drop 
+i 
+4right 
+drop 
+i 
+4right 
+drop 
+o 
+8right
+drop 
